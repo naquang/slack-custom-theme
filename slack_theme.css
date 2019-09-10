@@ -547,6 +547,7 @@ a.c-member_slug, .c-member_slug--link, .c-mrkdwn__subteam--link {
   background-color: #000 !important;
 }
 
+
 .btn.hover, .btn:focus, .btn:hover, .btn.active, .btn:active {
   background-color: var(--main-highlight);
   color: var(--main-text);
@@ -1560,6 +1561,7 @@ a.c-member_slug, .c-member_slug--link, .c-mrkdwn__subteam--link {
 
 .c-timestamp__label {
   color: #949494;
+  font-size: 10px;
 }
 
 .c-token, .c-token--large {
