@@ -28,10 +28,6 @@ body {
   --text-hover: #c7c7c7;
   /* Thread background color */
   --thread-bg-color: #222;
-   
-  --primary: #61AFEF;
-  --background: #282C34;
-  --background-elevated: #3B4048;
 }
 
 ::-moz-placeholder {
